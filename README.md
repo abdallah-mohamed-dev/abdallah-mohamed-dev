@@ -14,7 +14,7 @@ I specialize in crafting clean UI experiences and scalable frontend architecture
 
 ### 📫 How to reach me
 
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&labelColor=blue)]([https://www.linkedin.com/](https://www.linkedin.com/in/abdallah-mohamed-tawfik))
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&labelColor=blue)](https://www.linkedin.com/in/abdallah-mohamed-tawfik)
 [!["My Website"](https://img.shields.io/badge/Website-Portfolio-orange)](https://abdallah-mohamed-tawfik.pages.dev/)
 [!["Email"](https://img.shields.io/badge/Email-Contact-red)](mailto:Abdallah.mohamed.tawfik@gmail.com)
 
